@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Shm1dt-aka-Otto/github-readme-stats)
+
 <!--
 **Shm1dt-aka-Otto/Shm1dt-aka-Otto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
