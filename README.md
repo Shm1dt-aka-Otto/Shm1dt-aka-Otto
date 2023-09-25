@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 #### 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shm1dt-aka-Otto&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Shm1dt-aka-Otto&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 #### 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shm1dt-aka-Otto&show_icons=true&theme=midnight-purple&layout=demo)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Shm1dt-aka-Otto&show_icons=true&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Shm1dt-aka-Otto/Shm1dt-aka-Otto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
